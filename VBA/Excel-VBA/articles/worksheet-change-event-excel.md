@@ -56,7 +56,7 @@ End Sub
 
  **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/) |[About the Contributors](worksheet-change-event-excel.md#AboutContributor)
 
-The following code example verifies that, when a cell value changes, the changed cell is in column A, and if the changed value of the cell is greater than 100. If the value is greater than 100, the adjacent cell in column B is changed to the color red.
+The following code example verifies that, when a cell value changes, the changed cell is in column A, and if the changed value of the cell is greater than 100, then if the value is greater than 100, the adjacent cell in column B is changed to the color red.
 
 
 
